@@ -93,7 +93,7 @@ The constants at the top of `main.cpp` control how the game feels:
 
 ## Assets and credits
 
-The `assets/` folder holds the sprites, sound effects, music and font. It also contains extras the game doesn't use yet, such as other bird colours, digit sprites and a daytime background.
+The `assets/` folder holds the sprites, sound effects, music and font. It also contains extras the game doesn't use yet, such as other bird colour, and a daytime background.
 
 <!-- TODO: add the source and licence for the sprites, audio and font. -->
 
